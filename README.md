@@ -11,7 +11,7 @@ This project implements a **singly linked list** in Java with:
 
 ## 🖼 Screenshots
 <p align="center">
-  <img src="image/linked_list.jpg" width="250" />
+  <img src="image/linked_list.png" width="250" />
 </p>
 
 ---
