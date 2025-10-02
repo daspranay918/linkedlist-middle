@@ -9,7 +9,7 @@ This project implements a **singly linked list** in Java with:
 
 ---
 
-## 🖼 Screenshots
+## 🖼 Screenshot of Program output:-
 <p align="center">
   <img src="image/linked_list.png" width="250" />
 </p>
